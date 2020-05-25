@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjetFinal</string>
+    <string name="bt">Monitor</string>
+    <string name="monitor_label">Monitor</string>
+</resources>
